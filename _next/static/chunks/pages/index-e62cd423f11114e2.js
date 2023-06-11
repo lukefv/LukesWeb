@@ -959,11 +959,11 @@
                 l.jsxs)(a(), {
                     children: [(0,
                     l.jsx)("title", {
-                        children: "Astroblox"
+                        children: "Ropanel"
                     }), (0,
                     l.jsx)("meta", {
                         name: "description",
-                        content: "Astroblox"
+                        content: "Ropanel"
                     }), (0,
                     l.jsx)("meta", {
                         name: "viewport",
