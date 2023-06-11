@@ -78,7 +78,7 @@
                     }), (0,
                     l.jsx)("p", {
                         className: "text-white flex font-display tracking-widest m-auto text-[14px] mt-[20px]",
-                        children: "ASTROBLOX"
+                        children: "ROPANEL"
                     })]
                 }), (0,
                 l.jsx)("div", {
