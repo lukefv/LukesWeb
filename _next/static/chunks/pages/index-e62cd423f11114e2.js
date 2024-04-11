@@ -78,7 +78,7 @@
                     }), (0,
                     l.jsx)("p", {
                         className: "text-white flex font-display tracking-widest m-auto text-[14px] mt-[20px]",
-                        children: "ROPANEL"
+                        children: "lukesecrets"
                     })]
                 
                 }), i && r && (0,
@@ -189,7 +189,7 @@
           , g = ()=>{
             let e = (0,
             n.useCallback)(()=>{
-                window.open("https://www.app.astroblox.ai", "_blank", "noopener,noreferrer")
+                window.open("https://vyft.xyz/luke", "_blank", "noopener,noreferrer")
             }
             , []);
             return (0,
@@ -210,7 +210,7 @@
                             className: "flex items-center gap-4",
                             children: [(0,
                             l.jsx)(c(), {
-                                href: "https://discord.gg/98vTdQhfAY",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 children: (0,
@@ -221,7 +221,7 @@
                                 })
                             }), (0,
                             l.jsx)(c(), {
-                                href: "https://www.tiktok.com/@astrobloxai",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 children: (0,
@@ -232,7 +232,7 @@
                                 })
                             }), (0,
                             l.jsx)(c(), {
-                                href: "https://twitter.com/Astrobloxai",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 children: (0,
@@ -243,7 +243,7 @@
                                 })
                             }), (0,
                             l.jsx)(c(), {
-                                href: "https://www.instagram.com/astrobloxai/",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 children: (0,
@@ -256,7 +256,7 @@
                         }), (0,
                         l.jsxs)("p", {
                             className: "font-text text-[14px] leading-[20px] text-center sm:text-left",
-                            children: ["\xa9 ", C, " Astroblox"]
+                            children: ["\xa9 ", C, " lukesecrets"]
                         })]
                     }), (0,
                     l.jsxs)("div", {
@@ -266,14 +266,14 @@
                             className: "flex sm:mr-[20px] gap-4 justify-around",
                             children: [(0,
                             l.jsx)(c(), {
-                                href: "https://www.notion.so/astroblox/Careers-at-Astroblox-9c3978c851b74634af51a67561d75bc8",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 className: "font-display text-[14px] underline my-auto",
                                 children: "Careers"
                             }), (0,
                             l.jsx)(c(), {
-                                href: "https://astroblox.notion.site/Astroblox-Terms-of-Service-7ef21f89dfa54d9db6fe65754f0e110f",
+                                href: "",
                                 passHref: !0,
                                 target: "_blank",
                                 className: "font-display text-[14px] underline my-auto",
@@ -441,32 +441,32 @@
                 className: "flex-row justify-center flex md:mx-[27px] ".concat(t),
                 children: [(0,
                 l.jsx)(k, {
-                    title: "Narrative",
-                    text: "Leave the bounds of traditional stories to infinitely dive into your worlds",
+                    title: "Discovery",
+                    text: "Truely be in the moment playing our experiences",
                     icon: (0,
                     l.jsx)(j, {})
                 }), (0,
                 l.jsx)(k, {
                     title: "Audio",
-                    text: "Play to any soundscape, depending on your mood or type of gameplay",
+                    text: "Choose from our never ending sound library with copyright-free soundscapes perfect for your experience.",
                     icon: (0,
                     l.jsx)(v, {})
                 }), (0,
                 l.jsx)(k, {
-                    title: "2D Art",
-                    text: "Play with any game assets -- change your character, world, obstacles, enemies, and anything else to be to your liking",
+                    title: "Magic",
+                    text: "Harness the power our experiences will carry you through",
                     icon: (0,
                     l.jsx)(b, {})
                 }), (0,
                 l.jsx)(k, {
-                    title: "3D Art",
-                    text: "Upgrade your art with the power of 3D to immerse further in your game",
+                    title: "Physics",
+                    text: "We are working on some Roblox plugins that'll up your games quality infinitely.",
                     icon: (0,
                     l.jsx)(y, {})
                 }), (0,
                 l.jsx)(k, {
                     title: "Game Mechanics",
-                    text: "Discover unforseen game mechanics with the power of AI",
+                    text: "Discover unforseen game mechanics with the power of lukesecrets",
                     icon: (0,
                     l.jsx)(N, {})
                 })]
@@ -514,7 +514,7 @@
             }), (0,
             l.jsx)("p", {
                 className: "text-white font-display text-[12px] leading-[15px] lg:text-[20px] lg:leading-[35px] flex-1 text-center max-w-5xl mx-auto",
-                children: "Our mission is to revolutionize social gaming by harnessing the power of AI. We envision a future where anyone can become a game creator, with no cap on the ceiling of their imaginations."
+                children: "Our mission is to revolutionize Roblox game development by creating high quality assets for your experiences."
             })]
         })
           , Z = ()=>(0,
@@ -553,7 +553,7 @@
             }), (0,
             l.jsx)("p", {
                 className: "opacity-80 text-[12px] sm:text-[14px] mt-[42px] break-normal px-[15px] font-light font-display m-auto",
-                children: "No drawing, no animating, no composing, no coding. Welcome to effortless game creation."
+                children: "No hard work, assets provided to you. Welcome to almost effortless game creation."
             })]
         });
         var L = s(2637);
