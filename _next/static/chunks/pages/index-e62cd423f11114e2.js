@@ -641,7 +641,7 @@
                                 children: (0,
                                 l.jsx)("p", {
                                     className: "m-auto",
-                                    children: "Create game"
+                                    children: "Start Creating"
                                 })
                             }), (0,
                             l.jsxs)("div", {
@@ -874,7 +874,7 @@
                         onClick: ()=>t(0)
                     }), (0,
                     l.jsx)(D, {
-                        text: "Play",
+                        text: "AI Tool",
                         active: 1 === e,
                         onClick: ()=>t(1)
                     }), (0,
@@ -894,8 +894,8 @@
                             children: ["Use ", " ", (0,
                             l.jsx)("u", {
                                 children: "text-to-game"
-                            }), " ", "to make your own game, or select a community experience"]
-                        }), 1 === e && "Iterate on your game during play to make your ideal experience, get through levels with novel mechanics, and become a better player", 2 === e && "Share your game to show off your creation or skill, and compete with friends"]
+                            }), " ", "to discover endless games using this tool."]
+                        }), 1 === e && "With our ai tool, quickly get an asset from our endless library that suites your desires best.", 2 === e && "Share your game to show off your creation or skill, and compete with friends"]
                     })
                 })]
             })
@@ -908,11 +908,11 @@
                 l.jsxs)(a(), {
                     children: [(0,
                     l.jsx)("title", {
-                        children: "Ropanel"
+                        children: "ls"
                     }), (0,
                     l.jsx)("meta", {
                         name: "description",
-                        content: "Ropanel"
+                        content: "ls"
                     }), (0,
                     l.jsx)("meta", {
                         name: "viewport",
