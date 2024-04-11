@@ -628,7 +628,7 @@
                                 className: "font-text text-[14px] leading-[20px] block text-[#D800CD] h-[68px] py-[14px] px-[10px] text-center",
                                 children: (0,
                                 l.jsx)(L.rf, {
-                                    words: ["A tetris style game..."],
+                                    words: ["Find assets suiting you, with ease."],
                                     loop: !1,
                                     cursor: !0,
                                     cursorStyle: "|",
@@ -781,7 +781,7 @@
                                     className: "relative font-text text-[7px] leading-[18px] block",
                                     children: [(0,
                                     l.jsx)(L.rf, {
-                                        words: ["", S],
+                                        words: ["hi", S],
                                         loop: !1,
                                         cursor: !0,
                                         cursorStyle: "|",
