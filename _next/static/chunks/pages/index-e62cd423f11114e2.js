@@ -69,7 +69,7 @@
                     className: "flex flex-col justify-center",
                     children: [(0,
                     l.jsx)("img", {
-                        src: "/astro-logo.svg",
+                        src: "/logo.svg",
                         alt: "logo",
                         style: {
                             width: "full",
@@ -505,7 +505,7 @@
             className: "flex flex-col p-[46px] pb-[25px] lg:pt-[75px] items-center gap-[54px]",
             children: [(0,
             l.jsx)("img", {
-                src: "/astro-logo.svg",
+                src: "/logo.svg",
                 alt: "logo",
                 style: {
                     width: "full",
@@ -908,11 +908,11 @@
                 l.jsxs)(a(), {
                     children: [(0,
                     l.jsx)("title", {
-                        children: "ls"
+                        children: "lukesecrets"
                     }), (0,
                     l.jsx)("meta", {
                         name: "description",
-                        content: "ls"
+                        content: "lukesecrets development tool"
                     }), (0,
                     l.jsx)("meta", {
                         name: "viewport",
@@ -920,7 +920,7 @@
                     }), (0,
                     l.jsx)("link", {
                         rel: "icon",
-                        href: "/astro-logo.svg"
+                        href: "/logo.svg"
                     })]
                 }), (0,
                 l.jsxs)("main", {
