@@ -80,58 +80,7 @@
                         className: "text-white flex font-display tracking-widest m-auto text-[14px] mt-[20px]",
                         children: "ROPANEL"
                     })]
-                }), (0,
-                l.jsx)("div", {
-                    className: "flex flex-col w-full h-fit justify-center mt-[24px] sm:mt-[50px]",
-                    children: (0,
-                    l.jsx)("div", {
-                        className: "min-h-[80px] w-full sm:max-w-[90vw] sm:w-[860px] bg-gradient-to-r from-[#D800CD] to-[#8C76FF] rounded-lg p-[1px] mx-auto",
-                        children: (0,
-                        l.jsx)("div", {
-                            className: "flex flex-col w-full h-fit bg-[#0F0F0F] rounded-lg items-center p-[18px]",
-                            children: (0,
-                            l.jsxs)("div", {
-                                className: "flex flex-col sm:flex-row w-full h-fit sm:h-[42px] items-center",
-                                children: [(0,
-                                l.jsx)("div", {
-                                    className: "w-[1px] h-[1px]",
-                                    children: (0,
-                                    l.jsx)("div", {
-                                        className: "flex relative -translate-x-1/2 sm:translate-x-0 bottom-[31px] sm:bottom-[52px] w-[120px] leading-6 bg-[#D800CD] rounded-md text-[12px] text-white justify-center",
-                                        children: "Early Access"
-                                    })
-                                }), (0,
-                                l.jsx)(w, {
-                                    type: "email",
-                                    className: "flex-1 leading-[37px] w-full mb-[8px] sm:mb-0 sm:mr-[8px] min-h-[37px]",
-                                    placeholder: "Enter your email",
-                                    onChange: t=>{
-                                        e.current = t.target.value
-                                    }
-                                }), (0,
-                                l.jsx)(f, {
-                                    onClick: c,
-                                    className: "items-center justify-center w-full sm:w-[180px] gap-3 h-[38px]",
-                                    children: t ? (0,
-                                    l.jsx)(x, {}) : (0,
-                                    l.jsxs)(n.Fragment, {
-                                        children: [(0,
-                                        l.jsx)("p", {
-                                            children: "Request Invite"
-                                        }), (0,
-                                        l.jsx)("img", {
-                                            src: "/images/button_arrow.svg",
-                                            alt: "phone",
-                                            style: {
-                                                width: "full",
-                                                height: 18
-                                            }
-                                        })]
-                                    })
-                                })]
-                            })
-                        })
-                    })
+                
                 }), i && r && (0,
                 l.jsx)("div", {
                     className: "w-full text-center text-white h-[35px] mt-[12px]",
