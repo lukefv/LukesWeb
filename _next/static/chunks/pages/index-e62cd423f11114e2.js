@@ -809,7 +809,7 @@
                                     }), a && (0,
                                     l.jsx)("div", {
                                         className: "absolute left-[0px] top-[0px] bg-bgPrimary w-full h-full text-left rounded-br-[20px]",
-                                        children: "Type to personalize game"
+                                        children: "Use LukesAI to find an asset suiting you."
                                     })]
                                 }), (0,
                                 l.jsx)("div", {
