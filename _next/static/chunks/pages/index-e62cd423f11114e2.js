@@ -781,7 +781,7 @@
                                     className: "relative font-text text-[7px] leading-[18px] block",
                                     children: [(0,
                                     l.jsx)(L.rf, {
-                                        words: ["hi", S],
+                                        words: ["", S],
                                         loop: !1,
                                         cursor: !0,
                                         cursorStyle: "|",
